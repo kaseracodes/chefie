@@ -8,7 +8,7 @@ import navIcon3 from "../assets/img/nav-icon3.svg";
 
 export const Footer = () => {
 
-    const brochureLink = "https://drive.google.com/file/d/1w4o_fYLo9sm3rY0SvN5T8VqM_VOnRMB4/view?usp=sharing";
+    const brochureLink = "https://drive.google.com/file/d/1Yem8I5c9hASPbW41FkPw1KR8vACaSnsr/view?usp=sharing";
     const webBootcampBrochureLink = 'https://forms.gle/2VhgBxrQM6MdJoUf9';
     const dsaBootcampBrochureLink = "https://drive.google.com/file/d/1Eif1vTVuJb_y_4WAcmNfXA1bQmtRF4Kd/view?usp=sharing";
 
